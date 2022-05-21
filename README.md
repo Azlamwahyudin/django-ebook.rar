@@ -16,4 +16,18 @@ kemudian cek modul dengan ketik pip list
 
 ![cek pip list](https://user-images.githubusercontent.com/93004934/169656018-1cae7875-281f-425b-8885-5fd55ffb1690.png)
 
+kemudian install django di virtualenv
+di sini saya instal django terbaru
+
+![install django terbaru](https://user-images.githubusercontent.com/93004934/169657288-ecbfccc4-8b3f-49f0-aab5-fee74e99f1d5.png)
+
+cek modul dengan ketik pip list
+
+![blblblb](https://user-images.githubusercontent.com/93004934/169657421-ee49e21f-63fb-41e9-ad18-d847cb646e80.png)
+
+ketik Env\Scripts\deactivate.bat untuk keluar dari virtualenv
+
+
+
+
 
